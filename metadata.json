@@ -1,0 +1,6 @@
+{
+  "name": "AI Passport Photo Maker",
+  "description": "An AI-powered Passport & Visa Photo Maker with automatic face detection, background removal, and clothing replacement.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
